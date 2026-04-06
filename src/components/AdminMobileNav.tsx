@@ -48,7 +48,7 @@ export default function AdminMobileNav({ openRequests = 0, pendingPhotos = 0, us
 
       {/* Drawer */}
       <div
-        className={`fixed top-0 left-0 h-full w-[280px] max-w-[85vw] bg-gradient-to-b from-[#0a1f1a] to-[#0d2818] text-white z-[70] shadow-2xl transition-transform duration-300 ease-in-out border-r border-[#3c6a00]/20 flex flex-col ${
+        className={`fixed top-0 left-0 h-full w-[280px] max-w-[85vw] bg-[#0a1f1a] bg-gradient-to-b from-[#0a1f1a] to-[#0d2818] text-white z-[70] shadow-2xl transition-transform duration-300 ease-in-out border-r border-[#3c6a00]/20 flex flex-col ${
           open ? 'translate-x-0' : '-translate-x-full'
         }`}
       >
