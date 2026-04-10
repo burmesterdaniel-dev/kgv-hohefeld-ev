@@ -81,15 +81,15 @@ export default async function Home() {
             <h3 className="text-4xl md:text-5xl font-headline font-extrabold text-primary tracking-tighter mb-8">Über 100 Jahre Leidenschaft für das Grün</h3>
             <div className="space-y-6 text-lg text-on-surface-variant leading-relaxed">
               <p>Der Kleingartenverein Hohefeld e.V. ist tief in der Geschichte Bremens verwurzelt. Gegründet 1952 als Zufluchtsort für Stadtbewohner, hat sich unser Verein zu einer lebendigen Gemeinschaft in Bremen-Huchting entwickelt.</p>
-              <p>Heute pflegen wir auf unserem weitläufigen Gelände mit 142 Parzellen nicht nur Obst und Gemüse, sondern vor allem die gute Nachbarschaft.</p>
+              <p>Heute pflegen wir auf unserem weitläufigen Gelände mit 88 Parzellen nicht nur Obst und Gemüse, sondern vor allem die gute Nachbarschaft.</p>
             </div>
             <div className="mt-10 grid grid-cols-3 gap-8 border-t border-outline-variant/30 pt-10">
               <div>
-                <p className="text-3xl font-headline font-black text-secondary">142</p>
+                <p className="text-3xl font-headline font-black text-secondary">88</p>
                 <p className="text-sm text-on-surface-variant uppercase tracking-wider font-bold">Parzellen</p>
               </div>
               <div>
-                <p className="text-3xl font-headline font-black text-secondary">3,4ha</p>
+                <p className="text-3xl font-headline font-black text-secondary">4,4ha</p>
                 <p className="text-sm text-on-surface-variant uppercase tracking-wider font-bold">Gesamtfläche</p>
               </div>
               <div>
